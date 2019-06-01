@@ -1,5 +1,7 @@
 ﻿  Source.cpp
-c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(162): warning C4101: 'buf': unreferenced local variable
-c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(164): warning C4101: 'pid': unreferenced local variable
-  Test.vcxproj -> C:\Users\Tu\documents\visual studio 2015\Projects\Test\Debug\Test.exe
-  Test.vcxproj -> C:\Users\Tu\documents\visual studio 2015\Projects\Test\Debug\Test.pdb (Full PDB)
+c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(62): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(113): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\tu\documents\visual studio 2015\projects\test\test\source.cpp(374): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\Users\Tu\Documents\Visual Studio 2015\Projects\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Tu\Documents\Visual Studio 2015\Projects\Test\Debug\Test.pdb (Full PDB)
